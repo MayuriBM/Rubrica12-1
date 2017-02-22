@@ -18,7 +18,7 @@ import org.wicketstuff.annotation.scan.AnnotatedMountScanner;
 import de.agilecoders.wicket.core.Bootstrap;
 import es.salesianos.edu.webpages.AuthorPage;
 import es.salesianos.edu.webpages.HomePage;
-
+//esto no vaaa
 @Component
 @EnableAutoConfiguration
 @ComponentScan
