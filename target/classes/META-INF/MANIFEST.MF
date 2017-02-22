@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Rubrica12
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Mￃﾡyuri
+Implementation-Vendor-Id: es.salesianos.edu
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/Rubrica12-1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: rubrica12-1.configuration.WicketWebApplication
+
